@@ -1,0 +1,33 @@
+ * Serving Flask app "EmpApp" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 112-864-054
+ * Serving Flask app "EmpApp" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 112-864-054
+171.61.149.238 - - [05/Feb/2021 05:34:45] "GET /showsummary HTTP/1.1" 200 -
+171.61.149.238 - - [05/Feb/2021 05:38:03] "GET /showsummary HTTP/1.1" 200 -
+171.61.149.238 - - [05/Feb/2021 05:38:20] "GET /showsummary HTTP/1.1" 200 -
+171.61.149.238 - - [05/Feb/2021 05:38:21] "GET /static/bg4.jpg HTTP/1.1" 304 -
+195.142.152.98 - - [05/Feb/2021 05:46:43] "GET / HTTP/1.1" 200 -
+171.61.149.238 - - [05/Feb/2021 05:49:05] "GET / HTTP/1.1" 200 -
+171.61.149.238 - - [05/Feb/2021 05:49:08] "GET /showaddemp HTTP/1.1" 200 -
+171.61.149.238 - - [05/Feb/2021 05:49:10] "GET /showsummary HTTP/1.1" 200 -
+34.98.204.46 - - [05/Feb/2021 06:21:58] "GET /static/bg4.jpg HTTP/1.1" 304 -
+34.98.204.46 - - [05/Feb/2021 06:21:59] "GET /favicon.ico HTTP/1.1" 404 -
+ * Detected change in '/usr/lib/python3/dist-packages/cryptography/hazmat/bindings/_constant_time.abi3.so', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 112-864-054
+171.61.149.238 - - [05/Feb/2021 06:39:19] "GET /showsummary HTTP/1.1" 200 -
